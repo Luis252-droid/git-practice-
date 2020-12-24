@@ -1,2 +1,4 @@
 hola, 
 esta es una prueba con git.
+Este  cambio sirve como pureba y observar como  hacer  PULL correctamente
+y por primera vez :)
