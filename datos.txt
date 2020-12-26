@@ -1,4 +1,4 @@
-hola, 
-esta es una prueba con git.
-Este  cambio sirve como pureba para así observar como  hacer  PULL correctamente
-y por primera vez :)
+hola, soy Luis. 
+ésta es una prueba con git.
+El  cambio sirve como pureba para así recordar hacer Push.
+
